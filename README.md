@@ -1,4 +1,3 @@
-# Airline-Tweets-Sentiment-Classification-Analysis
 # **Project Description:Twitter US Airline Sentiment**
 
 # **Data Description**:
